@@ -1,1 +1,7 @@
-export {default as logo } from './logo.svg'
+import logo from './logo.svg'
+import ai from './ai.png'
+
+export {
+    logo,
+    ai
+}
